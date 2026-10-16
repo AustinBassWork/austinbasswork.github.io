@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "J3T582438J.com.austinbasswork.radontracker"
+        ],
+        "components": [
+          {
+            "/": "/Radon-Tracker/add/*",
+            "comment": "Shared-detector links (src/utils/shareLink.ts)"
+          },
+          {
+            "/": "/Radon-Tracker/add",
+            "comment": "The same page without the trailing slash"
+          }
+        ]
+      }
+    ]
+  }
+}
